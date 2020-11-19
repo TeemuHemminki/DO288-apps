@@ -13,11 +13,8 @@ pipeline {
         DEV_PROJECT = "teemu-hemminki-books-dev"
         STAGE_PROJECT = "teemu-hemminki-books-stage"
         APP_GIT_URL = "https://github.com/TeemuHemminki/DO288-apps"
-<<<<<<< HEAD
         NEXUS_SERVER = "nexus-common.apps.na45.prod.nextcle.com"
-=======
         NEXUS_SERVER = "http://nexus-common.apps.cluster.domain.example.com/repository/nodejs"
->>>>>>> parent of 53a7b26... Added nexus server address
 
         // DO NOT CHANGE THE GLOBAL VARS BELOW THIS LINE
         APP_NAME = "books"
